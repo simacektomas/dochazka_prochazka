@@ -1,1 +1,1 @@
-# dochazka_prochazka
+# Slack application for team events
